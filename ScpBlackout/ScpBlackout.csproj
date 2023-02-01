@@ -7,8 +7,8 @@
     <ProjectGuid>{76F80D2C-64E4-4AAF-81AE-F44EAF6A103F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Scp049Recontainment</RootNamespace>
-    <AssemblyName>Scp049Recontainment</AssemblyName>
+    <RootNamespace>ScpBlackout</RootNamespace>
+    <AssemblyName>ScpBlackout</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
